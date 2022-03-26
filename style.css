@@ -1,0 +1,20 @@
+*{
+    font-family: sans-serif;
+}
+#submit{
+background-color: red;
+color: white;
+height: 50px;
+width: 100px;
+border-radius: 4px;
+}
+#save{
+    background-color: green;
+    color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 4px;
+}
+body{
+    text-align: center;
+}
