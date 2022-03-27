@@ -1,20 +1,28 @@
-*{
-    font-family: sans-serif;
-}
-#submit{
-background-color: red;
-color: white;
-height: 50px;
-width: 100px;
-border-radius: 4px;
-}
-#save{
-    background-color: green;
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("/table.png");
+    background-size: cover;
+    font-weight: bold;
     color: white;
-    height: 50px;
-    width: 100px;
-    border-radius: 4px;
-}
-body{
     text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
 }
